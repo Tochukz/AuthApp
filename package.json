@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon -e js,pug app.js"
+    "dev": "nodemon -e js,pug app.js",
+    "test": "echo tested"
   },
   "keywords": [],
   "author": "",
