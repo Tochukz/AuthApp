@@ -1,12 +1,12 @@
 {
   "name": "MoreMiddlewares",
-  "version": "1.6.2",
+  "version": "1.7.3",
   "description": "",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon -e js,pug app.js",
     "test": "echo tested",
-    "version": "echo %npm_package_version% > versionfile"
+    "version": "echo %npm_package_version%"
   },
   "keywords": [],
   "author": "",
